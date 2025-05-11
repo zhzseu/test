@@ -2,6 +2,7 @@
 > ***下面我们来试一下基本的功能***
 --------
 ## 这是一个测试代码仓库，用于熟悉Git的操作
+这是一段python代码：
 ```python
 print("hello Git!")
 ```
@@ -10,7 +11,7 @@ print("hello Git!")
 #include <iostream>
 int main()
 {
-    print("hello world!");
+    std::cout << "Hello Git!" << '\n';
     return 0;
 }
 ```
